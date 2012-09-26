@@ -67,18 +67,6 @@ map <Right> :echo "stop using arrow keys iuri"<cr>
 map <Up> :echo "stop using arrow keys iuri"<cr>
 map <Down> :echo "stop using arrow keys iuri"<cr>
 
-" 16 black
-" 17 dark blue
-" 236 dark grey
-"autocmd InsertLeave * highlight CursorLine guifg=white guibg=black ctermfg=white ctermbg=black
-"autocmd InsertLeave * hi clear
-"autocmd InsertLeave * hi CursorLine term=underline cterm=underline guibg=Grey40
-"CursorLine     xxx term=underline cterm=underline guibg=Grey40
-"autocmd InsertLeave * set nocul
-
-"see
-"http://stackoverflow.com/questions/7614546/vim-cursorline-color-change-in-insert-mode
-
 " make Ctrl-Y copy complete words
 noremap! <C-Y> <Esc>klyWjpa
 
