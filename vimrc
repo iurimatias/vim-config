@@ -205,3 +205,7 @@ nnoremap ,hi :echo "hi<" . synIDattr(synID(line("."),col("."),1),"name") . '> tr
 nnoremap <leader>yp yyI#<esc>p
 
 color superman
+
+nnoremap <leader>rs :call RunCurrentSpecFile()<cr>
+nnoremap <leader>ra :call RunAllSpecs()<cr>
+
