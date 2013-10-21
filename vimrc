@@ -210,3 +210,6 @@ color superman
 nnoremap <leader>rs :call RunCurrentSpecFile()<cr>
 nnoremap <leader>ra :call RunAllSpecs()<cr>
 
+nmap <silent> <leader>d <Plug>DashGlobalSearch
+"nmap <silent> <leader>d <Plug>DashSearch
+
