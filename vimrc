@@ -174,6 +174,7 @@ nnoremap <leader>ga :open config/application.rb<cr>
 nnoremap <leader>gd :open config/database.yml<cr>
 nnoremap <leader>gg :open Gemfile<cr>
 nnoremap <leader>gr :open config/routes.rb<cr>
+nnoremap <leader>gi :open .gitignore<cr>
 nnoremap <leader>ge :open Readme.md<cr>
 nnoremap <leader>gl :open config/locales/en-CA.yml<cr>
 nnoremap <leader>gs :e *.gemspec<cr>
