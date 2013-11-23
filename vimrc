@@ -179,6 +179,7 @@ nnoremap <leader>ge :open Readme.md<cr>
 nnoremap <leader>gl :open config/locales/en-CA.yml<cr>
 nnoremap <leader>gs :e *.gemspec<cr>
 nnoremap <leader>gk :e Rakefile<cr>
+nnoremap <leader>gf :e Guardfile<cr>
 
 nnoremap <leader>ev :vsplit $MYVIMRC<cr>
 nnoremap <leader>sv :source $MYVIMRC<cr>
