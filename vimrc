@@ -191,6 +191,8 @@ nnoremap <leader>tc :tabclose<cr>
 nnoremap <leader>ts :tab split<cr>
 
 nnoremap \n :NERDTreeToggle<cr>
+nnoremap <leader>nf :NERDTreeToggle features/<cr>
+nnoremap <leader>ns :NERDTreeToggle spec/<cr>
 
 nnoremap <leader>c ct_
 nnoremap <leader>C cT_
