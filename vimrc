@@ -41,7 +41,7 @@ set visualbell           " don't beep
 set noerrorbells         " don't beep
 
 "set nobackup
-"set noswapfile
+set noswapfile
 
 set backupdir=/tmp
 set directory=/tmp
