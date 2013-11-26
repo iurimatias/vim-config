@@ -197,6 +197,8 @@ nnoremap <leader>ns :NERDTreeToggle spec/<cr>
 nnoremap <leader>c ct_
 nnoremap <leader>C cT_
 
+nnoremap <leader>vh :set list!<cr>
+
 " Show syntax highlighting groups for word under cursor
 nmap <C-S-P> :call <SID>SynStack()<CR>
 function! <SID>SynStack()
