@@ -14,6 +14,7 @@ Bundle 'gmarik/vundle'
 
 Bundle 'scrooloose/nerdtree'
 Bundle 'tristen/superman'
+Bundle 'tpope/vim-rails'
 
 filetype plugin indent on     " required
 
